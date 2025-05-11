@@ -19,12 +19,12 @@ int main(){
 		if(reverse == original)
 		{
 			cout<<"The number is "<<original<<"\nAfter reversing the number remains same which is "<<reverse<<endl;
-			cout<<"So, Yes this number is Palindrome!"<<endl;
+			cout<<"So, Yes this number is Palindrome!!"<<endl;
 		}
 		else
 		{
 			cout<<"The number is "<<original<<"\nAfter reversing the number does not remains same which is "<<reverse<<endl;
-			cout<<"So, The number is not Palindrome!"<<endl;
+			cout<<"So, The number is not Palindrome!!"<<endl;
 		}
 	return 0;
 }
