@@ -12,7 +12,7 @@ struct Item {
 
 void welcomePage() {
     system("cls");
-    cout << "===== Welcome to Budget Calculator for Event Management =====\n";
+    cout << "==== Welcome to Budget Calculator for Event Management ====\n";
     cout << "Press Enter to continue...";
     cin.ignore(); cin.get();
 }
