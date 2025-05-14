@@ -43,7 +43,7 @@ int main(){
 		
 		cout<<"========RESULTS========"<<endl;
 		for(int i=0; i<3; i++){
-		cout<<"__Reselt of student "<<s[i].name<<endl;
+		cout<<"__Result of student "<<s[i].name<<endl;
 		for(int k=0; k<size; k++){
 			cout<<"Course "<<k+1<<endl;
 			cout<<"Marks: "<<subjects[i][k].marks<<"/"<<subjects[i][k].total_marks<<"___Percentage: "<<subjects[i][k].average<<endl;
