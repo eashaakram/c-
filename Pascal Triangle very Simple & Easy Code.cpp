@@ -22,9 +22,7 @@ int main() {
             // Line 3
             else if (i == 3 && (j == 2 || j == 8))
                 cout << "1";
-            else if (i == 3 && (j == 4))
-                cout << "3";
-            else if (i == 3 && j == 6)
+            else if (i == 3 && (j == 4 || j == 6))
                 cout << "3";
             
             // Line 4
